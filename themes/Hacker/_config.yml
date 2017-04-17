@@ -1,0 +1,15 @@
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
+# duoshuo comment
+duoshuo: false
+duoshuo_name:
+
+# disqus comment
+disqus: true 
+disqus_shortname: vrtuts-net
+
+# google analytics
+googleTrackId:
